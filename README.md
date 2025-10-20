@@ -14,7 +14,7 @@ This project is a simple RESTful API built with **Express.js** and **Prisma ORM*
 - Controllers to handle business logic and error handling
 - Prisma ORM integration for database operations
 - Basic CRUD read operations:
-  - List all witches
-  - Get a single witch by ID
+- List all witches
+- Get a single witch by ID
 
 ---
